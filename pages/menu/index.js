@@ -1,10 +1,10 @@
 import Head from "next/head";
-import Layout from "../components/Layout";
-import Hero from "../components/Hero";
-import css from "../styles/Home.module.css";
-import Services from "../components/Services";
-import Menu from "../components/Menu";
-import { client } from "../lib/client";
+import Layout from "../../components/Layout";
+import Hero from "../../components/Hero";
+import css from "../../styles/Home.module.css";
+import Services from "../../components/Services";
+import Menu from "../../components/Menu";
+import { client } from "../../lib/client";
 import Link from "next/link";
 
 export default function Home({pizzas}) {
