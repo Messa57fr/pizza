@@ -5,7 +5,7 @@ import { findDOMNode } from 'react-dom'
 import { UilBill } from "@iconscout/react-unicons"
 import { UilBox } from "@iconscout/react-unicons"
 import Image from "next/image"
-import Cooking from "../../assets/Cooking.png"
+import Cooking from "../../assets/cooking.png"
 import Onway from "../../assets/onway.png"
 import Spinner from "../../assets/spinner.svg"
 import { useEffect } from 'react';
